@@ -1,4 +1,4 @@
-# My work assignment Title
+# My example work assignment Title
 
 Repository to host the project developed for 'some class', a fisrt year subject at SOMESCHOOL. Developed by Group ALPHA : [@MarcoOliveira](https://github.com/marcoamarooliveira), [add others].
 
@@ -12,7 +12,7 @@ _Please help reader navigate around describing how the repository is organized b
 * **Source code** is in the [src folder](src/).
 * Report chapters are in [doc folder](doc/).
 
-## Gallery
+## Gallery 1
 
 _Please provide a galery of the final result, with small images_
 A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images.
